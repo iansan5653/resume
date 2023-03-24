@@ -24,7 +24,7 @@ a {
   color: inherit;
 }
 
-i {
+i, em {
   font-style: italic;
 }
 
